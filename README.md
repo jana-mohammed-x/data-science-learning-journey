@@ -1,2 +1,3 @@
-# data-science-learning-journey
-Documenting my Data Science learning journey through notes, code, and projects
+# Data Science Learning Journey 📊
+
+My notes, practice, and projects while learning Data Science.
